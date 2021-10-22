@@ -1,6 +1,6 @@
 # corona_game
 
-A game based on COVID-19 epidemic in the year of 2020
+This is a simple adventure game developed using flutter. It was developed in 2020 during the covid pandemic, and the thematic elements of the game include many of the cultural aspects of social distancing at the time in South Korea. It only utilizes the front end of the app, so no need for internet connection. This is my first time creating a mobile game, or any mobile application, so please enjoy!
 
 ## Getting Started
 
